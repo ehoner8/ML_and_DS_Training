@@ -1,2 +1,2 @@
 # ML_and_DS_Training
-A handful of Machine Learning and Data Science exercises.
+Notes and notebooks from a course I took to learn machine learning.
